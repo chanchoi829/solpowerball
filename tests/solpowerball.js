@@ -2,10 +2,10 @@ const assert = require("assert");
 const anchor = require("@project-serum/anchor");
 const { SystemProgram } = anchor.web3;
 
-describe("Mysolanaapp", () => {
+describe("Solpowerball", () => {
   const provider = anchor.Provider.env();
   anchor.setProvider(provider);
-  const program = anchor.workspace.Mysolanaapp;
+  const program = anchor.workspace.Solpowerball;
   it("It initializes the account", async () => {
     const baseAccount = anchor.web3.Keypair.generate();
     await program.rpc.initialize("Hello World", {

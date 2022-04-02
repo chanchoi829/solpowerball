@@ -1,10 +1,10 @@
-/* programs/mysolanaapp/src/lib.rs */
+/* programs/solpowerball/src/lib.rs */
 use anchor_lang::prelude::*;
 
-declare_id!("CsSnvgghffCreNxtegQ5pmFoAq37LCS26QHfKNYDwkEN");
+declare_id!("654ziBXqGEocmDZzfz4ijLm4niEVxw6qzEscz7Tef8ma");
 
 #[program]
-mod mysolanaapp {
+mod solpowerball {
     use super::*;
 
     pub fn initialize(ctx: Context<Initialize>, data: String) -> Result<()> {
