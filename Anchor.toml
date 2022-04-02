@@ -1,7 +1,7 @@
 [features]
 seeds = false
 [programs.localnet]
-solpowerball = "8rdLvCDitZ7CMXAWZpVBr3pjxXY5Y46acSRzReBP5VMp"
+mysolanaapp = "6XM13ZB4vsCCnUU2WrHsoBtrY8zGPwbHGBzVU8AsG2Dp"
 
 [registry]
 url = "https://anchor.projectserum.com"
