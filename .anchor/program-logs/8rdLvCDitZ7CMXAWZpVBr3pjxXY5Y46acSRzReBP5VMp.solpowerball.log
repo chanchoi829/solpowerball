@@ -1,9 +1,0 @@
-Streaming transaction logs mentioning 8rdLvCDitZ7CMXAWZpVBr3pjxXY5Y46acSRzReBP5VMp. Confirmed commitment
-Transaction executed in slot 1208:
-  Signature: 3qv1nwZPLh4G2omtWsADRZtWf4TTgh7QrskFDHCnHGL1peqMAYzvCQkgZKCE7pY5FCiM87miVS7pzPRMPK5fxZxQ
-  Status: Ok
-  Log Messages:
-    Program 8rdLvCDitZ7CMXAWZpVBr3pjxXY5Y46acSRzReBP5VMp invoke [1]
-    Program log: Instruction: Initialize
-    Program 8rdLvCDitZ7CMXAWZpVBr3pjxXY5Y46acSRzReBP5VMp consumed 588 of 1400000 compute units
-    Program 8rdLvCDitZ7CMXAWZpVBr3pjxXY5Y46acSRzReBP5VMp success
